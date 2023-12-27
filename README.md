@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajeng Alya Kartika Sari</h1>
 <h3 align="center">A passionate coder</h3>
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajengalyak&label=Profile%20views&color=0e75b6&style=flat" alt="ajengalyak" /> </p>
 
