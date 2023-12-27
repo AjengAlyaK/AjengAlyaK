@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/99/47/40/994740e9184662894392a1715bbeee14.gif)]
+[![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)]
 
 <h1 align="center">Hi 👋, I'm Ajeng Alya Kartika Sari</h1>
 <h3 align="center">A passionate coder</h3>
