@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ajenga990@gmail.com**
 
-- ⚡ Fun fact **I code better from midnight to dawn**
+- ⚡ Fun fact **Accidentally my first language programming is python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
