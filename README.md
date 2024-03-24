@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajengalyak&label=Profile%20views&color=0e75b6&style=flat" alt="ajengalyak" /> </p>
 
-- 🌱 I’m currently learning **Laravel, Express JS, Node Js, Bootstrap**
+- 🌱 I’m currently learning **Laravel, Express JS, Node Js, Bootstrap, React Js**
 
 - 📫 How to reach me **ajenga990@gmail.com**
 
-- ⚡ Fun fact **Accidentally my first language programming is python**
+- ⚡ Fun fact **Unintentionally my first language programming is python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
