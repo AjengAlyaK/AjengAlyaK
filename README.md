@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ajenga990@gmail.com**
 
-- ⚡ Fun fact **My worst mistake is trying write hello word in assembly**
+- ⚡ Fun fact **nothing fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
