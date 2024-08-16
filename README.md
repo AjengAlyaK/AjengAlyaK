@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif)
 
 <h1 align="center">Hi 👋, I'm Ajeng Alya Kartika Sari</h1>
-<h3 align="center">A passionate coder</h3>
+<h3 align="center">Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajengalyak&label=Profile%20views&color=0e75b6&style=flat" alt="ajengalyak" /> </p>
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ajenga990@gmail.com**
 
-- ⚡ Fun fact **nothing fun**
+- ⚡ Fun fact **my first programming language is python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
